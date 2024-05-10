@@ -2,6 +2,7 @@
   --card-height: 300px;
   --card-width: calc(var(--card-height) / 1.5);
 }
+
 * {
   box-sizing: border-box;
 }
